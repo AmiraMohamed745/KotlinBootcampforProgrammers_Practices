@@ -59,7 +59,26 @@ Course URL: https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud90
 
 ✔ Labeled breaks 
 
-       
+## Other resources I have Used:
+
+🔗 Kotlin documentation
+
+🔗 Medium
+
+🔗 Youtube videos
+
+🔗 StackOverFlow
+
+🔗 Programiz
+
+🔗 Baeldung
+
+🔗 LogRocket blog
+
+🔗 Dave Leeds on Koltin
+
+🔗 GeeksforGeeks
+
 
         
 
