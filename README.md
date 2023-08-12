@@ -1,4 +1,4 @@
-# KotlinBootcampforProgrammers_Tasks
+# KotlinBootcampforProgrammers_Practices
 The reposoitory contains all the code I have written while taking the **Kotlin Bootcamp for Programmers** Udacity course
 
 Course URL: https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
